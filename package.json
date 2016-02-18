@@ -1,0 +1,37 @@
+{
+  "name": "ui-challenge",
+  "version": "1.0.0",
+  "description": "UI challenge for avenue code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://grim_coder@bitbucket.org/ac-recruitment/ui-challenge.git"
+  },
+  "author": "T Kovtun",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ac-recruitment/ui-challenge#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-gmaps": "^1.4.2"
+  },
+  "devDependencies": {
+    "babel-runtime": "^6.3.19",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.10.0",
+    "gulp-uglify": "^1.5.1",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
