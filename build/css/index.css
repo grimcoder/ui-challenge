@@ -4,11 +4,14 @@ html, body, #map_canvas {
     margin: 0;
     padding: 0;
 }
+
+.btn {font-size: 2vw;}
+
 #map_canvas {
     position: relative;
 }
 
-
+.gm-style-iw + div {display: none;}
 
 .bu{
     margin-right: 3px;
@@ -18,11 +21,21 @@ html, body, #map_canvas {
     height: 100%;
 }
 
+.map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
 input.search{
     border: 0px;
-    width: 150px;
-    height: 27px;
+    width: 45vw;
+    vertical-align: middle;
     padding: 3px;
+    font-size: 2.2vw;
 }
 .controls{
     /* Rectangle 22: */
@@ -32,7 +45,7 @@ input.search{
     background: #FFFFFF;
     box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.50);
     border-radius: 2px;
-    height: 40px;
+
     padding: 3px;
-    width: 400px;
+
 }
