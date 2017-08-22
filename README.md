@@ -63,7 +63,7 @@ Here are a few suggestions of tools to develop your responsive app:
 * Handlebars - http://handlebarsjs.com/
 * Jasmine - http://jasmine.github.io/
 * Chai - http://chaijs.com/
-* Mocha - http://visionmedia.github.io/mocha/
+* Mocha - http://mochajs.org/
 * QUnit - http://qunitjs.com/
 * SASS - http://sass-lang.com/
 * LESS - http://lesscss.org/
